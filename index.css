@@ -1,0 +1,108 @@
+
+.navbar,.navbar .nav-link{
+    list-style: none;
+    color: beige;
+
+}
+.self{
+    height: 330px;
+    border-radius: 2em;
+}
+#About{
+    /* padding: 2rem auto auto auto; */
+    background-color: beige;
+}
+ul{
+    margin-left: auto;
+}
+li{
+    text-decoration: none;
+}
+.hello{
+    padding-top:4em;
+}
+p{
+    padding-top: 2em;
+    color: black;
+    font-size: x-large;
+    text-align: justify ;
+}
+span{
+    color: rgb(86, 142, 195);
+}
+.cap{
+    font-size: 1.2em;
+    text-align: center;
+}
+.edu{
+    padding: 8em 8em 8em 8em;
+    margin-bottom: 2em;
+}
+.eduhead{
+    padding-bottom: 1em;
+}
+.gap{
+    margin-bottom: 3em;
+}
+.footer{
+    background-color: black;
+    margin: 0 0 0 0;
+
+}
+.fth,.ft{
+    text-decoration: none;
+    color: beige;
+    margin: 0 0 0 0;
+    font-size:1em;
+}
+.fth:hover{
+    color: azure;
+}
+.gap2{
+    text-align: center;
+}
+.brak{
+border: 0.0001em solid azure;
+}
+.pdf{
+    width: 6em;
+}
+.cont{
+    padding: 3em 6em 2em 6em;
+}
+.mail{
+    color: beige;
+}
+.gap3{
+    margin-bottom: 3em;
+}
+.ft2{
+    text-decoration: underline;
+}
+.skillcont{
+    margin-bottom: 10em;
+}
+.customcard{
+    padding: 1em 1em 1em 1em;
+    border: 1px solid gray;
+    border-radius: 0.5em;
+    width: 14.8rem;
+    height: 27rem; 
+    margin-bottom: 3em;
+    background-color: beige;
+}
+.ctext{
+    text-align: center;     
+    font-size: medium;
+}
+.rating{
+    color: black;
+    font-weight: bold;
+}
+.image-me{
+    padding-top: 1.2em;
+}
+.nonen{
+    padding-left: 2em;
+    color: #000;
+}
